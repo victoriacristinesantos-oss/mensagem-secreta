@@ -1,0 +1,16 @@
+body{
+    background-color:coral;
+    text-align: center;
+}
+
+h1{
+    color: cornsilk;
+}
+
+p{
+    font-size: medium;
+}
+
+button{
+    background-color: cornflowerblue;
+}
